@@ -1,0 +1,7 @@
+{
+    "env": {
+        "mongoDatabase": "graphqlcluster",
+        "mongoUserName": "zakwankollect",
+        "mongoUserPassword": "sonnaeun21"
+    }
+}
