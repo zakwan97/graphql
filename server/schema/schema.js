@@ -325,7 +325,7 @@ const Mutation = new GraphQLObjectType({
         // id: {type: GraphQLID},
         title: {type: GraphQLNonNull(GraphQLString)},
         description: {type: GraphQLNonNull(GraphQLString)},
-        userId: {type: GraphQLNonNull(GraphQLID)}
+        userId: {type: GraphQLNonNull(GraphQLString)}
       },
       // resolve(parent, args){
       //   let hobby = {
